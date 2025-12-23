@@ -13,7 +13,7 @@
   <meta name="geo.country" content="id">
   <meta name="language" content="Id-ID">
   <meta name="geo.placename" content="INDONESIA">
-  <meta name="author" content="KVG STUDENT">
+  <meta name="author" content="KVG 2L">
   <meta name="publisher" content="KERABATSLOT">
   <meta property="og:type" content="website">
   <meta property="og:locale" content="id_ID">
@@ -37,7 +37,7 @@
         "name": "KERABATSLOT",
         "author": {
             "@type": "Person", 
-            "name": "KVG STUDENT"},
+            "name": "KVG 2L"},
             "headline": "KERABATSLOT - Daftar Togel Dan Login Link Alternatif 2025",
             "description": "KERABATSLOT merupakan situs togel yang di kenal sejak lama dengan tingkat terpercaya, resmi untuk daftar togel dan login link alaternatif terbaik 2025 tahun ini.",
             "image": "https://res.cloudinary.com/dzcrmfjzk/image/upload/v1763430661/KERABATSLOT_1_tntidj.png",
@@ -448,7 +448,7 @@
     }
     </script>
 </head>
-<!-- SEO STUDENT -->
+<!-- SEO 2L -->
 <body>
 <body style="background-position: 71.85% 7.1%;">
     <div class="wide light-text">
