@@ -1,7 +1,8 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,minimum-scale=1">
-  <title>KERABATSLOT - Daftar Togel Dan Login Link Alternatif 2025</title>
+	<meta name="google-site-verification" content="Kq5eEckGIyTkFR1hPnhSFAKMRJWGzxMoxdik3Mg-hqs" />
+	<title>KERABATSLOT - Daftar Togel Dan Login Link Alternatif 2025</title>
   <meta name="description" content="KERABATSLOT merupakan situs togel yang di kenal sejak lama dengan tingkat terpercaya, resmi untuk daftar togel dan login link alaternatif terbaik 2025 tahun ini.">
   <meta name="keywords" content="kerabatslot, kerabat slot, kerabatslot togel, kerabatslot login, kerabatslot daftar, kerabatslot link, kerabatslot link alternatif" />
   <meta name="google-site-verification" content="Kq5eEckGIyTkFR1hPnhSFAKMRJWGzxMoxdik3Mg-hqs" />
